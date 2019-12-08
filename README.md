@@ -1,4 +1,4 @@
-## EASYPAY
+## EASY PAY
 New way of paying shopping bills
 
 ## Azure Technology Used:
@@ -19,4 +19,4 @@ And hosted the above python scripts as independent serverless Azure Cloud Functi
 ## Technology stack used in the prototype:
 Android, Python, Azure SQL database, Azure Cloud Functions.
 
-Documentations for the prototype can be found [here](https://github.com/rajesh-esaver/Upay/blob/master/Docs/Easy%20Pay%20Documentation.pdf)
+Documentations for the prototype can be found [here](https://github.com/rajesh-esaver/Upay/blob/master/Docs/Easy%20Pay%20Documentation.pdf).
