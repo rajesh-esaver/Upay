@@ -20,3 +20,6 @@ And hosted the above python scripts as independent serverless Azure Cloud Functi
 Android, Python, Azure SQL database, Azure Cloud Functions.
 
 Documentations for the prototype can be found [here](https://github.com/rajesh-esaver/Upay/blob/master/Docs/Easy%20Pay%20Documentation.pdf).
+
+
+Screenshots for the prototype can be found [here](https://github.com/rajesh-esaver/Upay/blob/master/Docs/Screenshots.pdf).
