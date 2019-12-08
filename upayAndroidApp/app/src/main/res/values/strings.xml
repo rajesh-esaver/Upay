@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">upay</string>
+    <string name="profile">Profile</string>
+    <string name="transactions">Transactions</string>
+    <string name="Amount">AMount</string>
+    <string name="id">User Id</string>
+    <string name="payment">Payment</string>
+    <string name="purchase">Purchase</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="userId">User Id</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView app:cardCornerRadius="7dp"
+    android:layout_marginTop="20dp"
+    android:layout_marginStart="20dp"
+    android:layout_marginEnd="20dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/cardview"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_margin="20dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:textSize="16sp"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:text="departmental store"
+            android:layout_marginBottom="4dp"
+            android:id="@+id/tv_shop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+
+
+        <TextView
+            android:textColor="@color/colorPrimary"
+            android:text="20 nov 2019"
+            android:id="@+id/tv_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+
+
+        <TextView
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_weight="0.7"
+            android:textSize="20sp"
+            android:textColor="#000"
+            android:text="250 ₹"
+            android:layout_marginBottom="4dp"
+            android:layout_marginEnd="5dp"
+            android:id="@+id/tv_amount"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
